@@ -4,6 +4,12 @@
 
 Docker image：fanfengqiang/elasticsearch_crash:v1
 
+镜像制作：
+
+```bash
+docker build -t fanfengqiang/elasticsearch_crash:v1 .
+```
+
 启动方式：
 
 ```bash
